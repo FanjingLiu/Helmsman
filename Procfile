@@ -1,0 +1,1 @@
+web: gunicorn Helmsman.wsgi --log-file -
